@@ -2,7 +2,7 @@
 使用方式  
 将course文件夹放置到tomcat下  
 或在vscode中以live server启动  
-或http-server -p 端口号 搭建临时服务
+或http-server -p 端口号 搭建临时服务  
 成果展示  
 ![image](https://user-images.githubusercontent.com/88532910/204453531-3d386a55-984e-43f7-996d-75522c9313dd.png)
 随机跳转  
