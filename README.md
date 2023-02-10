@@ -1,4 +1,5 @@
-# MyCesium
+# MyCesium 
+## cesium的基础使用
 使用方式  
 将course文件夹放置到tomcat下  
 或在vscode中以live server启动  
